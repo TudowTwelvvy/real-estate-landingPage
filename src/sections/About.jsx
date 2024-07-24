@@ -41,20 +41,22 @@ function About() {
           data-aos-delay="200"
           className="text-black text-[40px] font-semibold leading-10 dark:text-white"
         >
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente,
-          porro!
+          At Tudow Properties, we are passionate about connecting people with
+          their perfect properties.
         </h1>
         <p
           data-aos="zoom-in"
           data-aos-delay="400"
           className="text-xl text-gray-600 dark:text-white text-justify"
         >
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid
-          aspernatur consequatur dicta enim! Aut consectetur maxime officiis
-          minima iusto quo voluptas esse possimus autem, hic earum quisquam
-          explicabo temporibus quibusdam aperiam? Quos iure aliquam natus, totam
-          sunt est itaque sit recusandae consequatur, quidem officia
-          consequuntur porro molestias temporibus in. Nihil?
+          As a trusted online platform, we specialize in curating a diverse
+          selection of homes that cater to every individual's needs and
+          preferences. Our team of dedicated real estate professionals is
+          committed to providing transparent and reliable information, ensuring
+          that your property search is as smooth and informed as possible.
+          Whether you're buying, selling, or renting, Tudow Properties is your
+          go-to resource for navigating the real estate market with confidence
+          and ease.
         </p>
         <button className="bg-red-600 dark:bg-red-700 hover:bg-black dark:hover:bg-white dark:hover:text-black text-lg p-4  text-white font-semibold rounded-xl cursor-pointer transform hover:scale-110 transition-transform duration-300">
           READ MORE

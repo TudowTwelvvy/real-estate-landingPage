@@ -34,9 +34,11 @@ function Hero() {
             data-aos="zoom-in"
             className="text-white text-xl lg:pr[500px] pr-0"
           >
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae
-            commodi iste voluptate veniam deserunt aliquid voluptas distinctio
-            dolorem, accusantium quibusdam.
+            Discover your perfect home with our comprehensive property listings.
+            Whether you're searching for a cozy apartment in the heart of the
+            city, a family-friendly house in a peaceful suburb, or an investment
+            property with promising potential, our website offers a diverse
+            range of options to suit every lifestyle and budget.
           </p>
         </section>
       </div>
