@@ -6,6 +6,7 @@ import About from './sections/About'
 import PopularAreas from './sections/PopularAreas'
 import Properties from './sections/Properties'
 import Footer from './components/Footer'
+import Services from './sections/Services'
 DarkModeProvider
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
         <About />
         <PopularAreas />
         <Properties />
+        <Services />
         <Footer />
       </DarkModeProvider>
     </>
