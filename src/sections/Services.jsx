@@ -13,7 +13,7 @@ function Services() {
       delay: 100,
     })
   }, [])
-  const { darkMode, toggleDark } = useDarkMode()
+  const { darkMode, toggleDarkMode } = useDarkMode()
   return (
     <div
       className={`${darkMode ? 'dark bg-black' : 'light bg-transparent'} pb-20`}

@@ -14,7 +14,7 @@ function Hero() {
     })
   }, [])
 
-  const { darkMode, toggleDark } = useDarkMode()
+  const { darkMode, toggleDarkMode } = useDarkMode()
 
   return (
     <>
