@@ -8,6 +8,7 @@ import Properties from './sections/Properties'
 import Footer from './components/Footer'
 import Services from './sections/Services'
 import Clients from './sections/Clients'
+import Contact from './sections/Contact'
 DarkModeProvider
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
         <Properties />
         <Services />
         <Clients />
+        <Contact />
         <Footer />
       </DarkModeProvider>
     </>

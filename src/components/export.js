@@ -4,10 +4,10 @@ import prop3 from '../assets/images/prop3.webp'
 import prop4 from '../assets/images/prop4.webp'
 import prop5 from '../assets/images/prop5.webp'
 import prop6 from '../assets/images/prop6.webp'
-import client1 from '../assets/images/client1.png'
+import client1 from '../assets/images/client33.jpg'
 import client2 from '../assets/images/client2.png'
-import client3 from '../assets/images/client3.png'
-import client4 from '../assets/images/client4.png'
+import client3 from '../assets/images/client11.png'
+import client4 from '../assets/images/client44.png'
 import client5 from '../assets/images/client5.png'
 import client6 from '../assets/images/client6.png'
 import { MdNoteAlt } from 'react-icons/md'
@@ -25,7 +25,7 @@ export const property = [
     bed: 4,
     bath: 3,
     area: '250 sq ft',
-    owner: 'Alice adams',
+    owner: 'Thabiso Khanye',
   },
   {
     images: prop2,
@@ -37,7 +37,7 @@ export const property = [
     bed: 4,
     bath: 3,
     area: '450 sq ft',
-    owner: 'Drew Alice',
+    owner: 'Alice Van Wyk',
   },
   {
     images: prop3,
@@ -49,7 +49,7 @@ export const property = [
     bed: 4,
     bath: 3,
     area: '129 sq ft',
-    owner: 'Fursi Bam',
+    owner: 'Thandi Zulu',
   },
   {
     images: prop4,
@@ -73,7 +73,7 @@ export const property = [
     bed: 4,
     bath: 3,
     area: '320 sq ft',
-    owner: 'Firari Alice',
+    owner: 'John Gerberg',
   },
   {
     images: prop6,
@@ -85,7 +85,7 @@ export const property = [
     bed: 4,
     bath: 3,
     area: '340 sq ft',
-    owner: 'Jordan Bram',
+    owner: 'Jordan Vries',
   },
 ]
 
@@ -125,44 +125,44 @@ export const service = [
 export const client = [
   {
     image: client1,
-    name: 'Dana Gilmore',
+    name: 'Kabza De Small',
     text: 'Excellent team!',
     feedback:
-      'The WP Estate team did an outstanding job helping me buy my first home. The high level of service and dedication',
+      'The Tudow Properties team did an outstanding job helping me buy my first home. The high level of service and dedication',
   },
   {
     image: client2,
     name: 'Ana Anderson',
     text: 'Very good work',
     feedback:
-      'The WP Estate team did an outstanding job helping me buy my first home. The high level of service and dedication',
+      'The Tudow Properties team did an outstanding job helping me buy my first home. The high level of service and dedication',
   },
   {
     image: client3,
-    name: 'Albert adame',
+    name: 'Casper Nyovest',
     text: 'Very well',
     feedback:
-      'The WP Estate team did an outstanding job helping me buy my first home. The high level of service and dedication',
+      'The Tudow Properties team did an outstanding job helping me buy my first home. The high level of service and dedication',
   },
   {
     image: client4,
-    name: 'Dana Gilmore',
+    name: 'Pcee',
     text: 'Excellent team!',
     feedback:
-      'The WP Estate team did an outstanding job helping me buy my first home. The high level of service and dedication',
+      'The Tudow Properties team did an outstanding job helping me buy my first home. The high level of service and dedication',
   },
   {
     image: client5,
     name: 'Alex gilmore',
     text: 'Excellent team!',
     feedback:
-      'The WP Estate team did an outstanding job helping me buy my first home. The high level of service and dedication',
+      'The Tudow Properties team did an outstanding job helping me buy my first home. The high level of service and dedication',
   },
   {
     image: client6,
     name: 'Sivay Ashbi',
     text: 'Excellent team!',
     feedback:
-      'The WP Estate team did an outstanding job helping me buy my first home. The high level of service and dedication',
+      'The Tudow Properties team did an outstanding job helping me buy my first home. The high level of service and dedication',
   },
 ]

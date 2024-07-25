@@ -40,7 +40,7 @@ function Clients() {
                 <img
                   src={item.image}
                   alt=""
-                  className="w-[70px] transform hover:scale-110 transition-transform duration-300"
+                  className="w-[70px] rounded-full transform hover:scale-110 transition-transform duration-300"
                 />
                 <div className="flex flex-col justify-center items-start gap-1">
                   <h1 className="text-xl text-black font-semibold dark:text-white">
