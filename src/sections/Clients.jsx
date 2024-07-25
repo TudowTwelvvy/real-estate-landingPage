@@ -17,7 +17,10 @@ function Clients() {
   const { darkMode, toggleDarkMode } = useDarkMode()
 
   return (
-    <div className={`${darkMode ? 'dark bg-black' : 'light bg-transparent'}`}>
+    <div
+      className={`${darkMode ? 'dark bg-black' : 'light bg-transparent'}`}
+      id="testimonials"
+    >
       <section className="lg:w-[95%] w-full h-fit m-auto bg-cover bg-center rounded-xl flex justify-center flex-col items-start lg:px-20 px-6 py-20 gap-20">
         <div
           data-aos="zoom-in"

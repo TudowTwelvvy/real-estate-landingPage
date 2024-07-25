@@ -16,6 +16,7 @@ function Contact() {
   return (
     <div
       className={`${darkMode ? 'dark bg-black' : 'light bg-transparent'} pb-20`}
+      id="contact"
     >
       <section
         className={`${

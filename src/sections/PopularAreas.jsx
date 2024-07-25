@@ -71,7 +71,7 @@ function PopularAreas() {
             <h1 className="text-black text-5xl font-semibold dark:text-white">
               5K
             </h1>
-            <h3 className="w">
+            <h3 className="dark:text-white">
               ACTIVE <br /> LISTINGS
             </h3>
           </div>
@@ -83,7 +83,7 @@ function PopularAreas() {
             <h1 className="text-black text-5xl font-semibold dark:text-white">
               5K
             </h1>
-            <h3 className="w">
+            <h3 className="dark:text-white">
               ACTIVE <br /> LISTINGS
             </h3>
           </div>
@@ -95,7 +95,7 @@ function PopularAreas() {
             <h1 className="text-black text-5xl font-semibold dark:text-white">
               5K
             </h1>
-            <h3 className="w">
+            <h3 className="dark:text-white">
               ACTIVE <br /> LISTINGS
             </h3>
           </div>

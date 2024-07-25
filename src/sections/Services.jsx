@@ -17,6 +17,7 @@ function Services() {
   return (
     <div
       className={`${darkMode ? 'dark bg-black' : 'light bg-transparent'} pb-20`}
+      id="services"
     >
       <section
         className={`${
@@ -29,7 +30,7 @@ function Services() {
           </h1>
           <h1
             data-aos="zoom-in"
-            className="text-black text-[40px] font-semibold leading-10"
+            className="text-black text-[40px] font-semibold leading-10 dark:text-white"
           >
             Top real estate <br /> Services avaliable
           </h1>

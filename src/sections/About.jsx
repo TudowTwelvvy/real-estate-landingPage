@@ -1,7 +1,6 @@
 import React, { useEffect } from 'react'
 import aboutImg from '../assets/images/about.jpg'
 import { useDarkMode } from '../components/DarkModeContext'
-useDarkMode
 import AOS from 'aos'
 import 'aos/dist/aos.css'
 
@@ -15,7 +14,7 @@ function About() {
     })
   }, [])
 
-  const { darkMode, toggleDark } = useDarkMode()
+  const { darkMode, toggleDarkMode } = useDarkMode()
 
   return (
     <section
