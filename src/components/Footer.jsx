@@ -84,7 +84,7 @@ function Footer() {
       <div className="w">
         <button
           onClick={toggleDarkMode}
-          className="flex items-center p-4 rounded-full bg-orange-500 fixed lg:top-52 right-6 top-12"
+          className="flex items-center p-4 rounded-full bg-orange-500 fixed lg:top-52 right-6 top-20"
         >
           {darkMode ? (
             <FaMoon size={25} className="text-black" />
